@@ -1,0 +1,3 @@
+# Demo file content
+
+Information about the new file demo.txt
